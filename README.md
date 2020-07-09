@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently a Computer Science Student
+- 🌱 I’m currently learning web app development.
+- 💬 Ask me about how to start learning Computer Science
+- 📫 How to reach me: DM me on [Twitter](twitter.com/yuvraajsj18)
+- ⚡ Fun fact: Searching for domain names is one of my hobbies.
+
+### Keep Learning, Keep Growing
+### Be Kind
+### Live.
