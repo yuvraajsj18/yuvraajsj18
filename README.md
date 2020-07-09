@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to start learning Computer Science
 - 📫 How to reach me: DM me on [Twitter](twitter.com/yuvraajsj18)
 - ⚡ Fun fact: Searching for domain names is one of my hobbies.
+- 🔭 Learning and understanding makes me feel powerful.
 
-### Keep Learning, Keep Growing
+### Keep Going, Keep Growing
 ### Be Kind
 ### Live.
