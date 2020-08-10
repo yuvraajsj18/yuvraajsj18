@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Searching for domain names is one of my hobbies.
 - 🔭 Learning and understanding makes me feel powerful.
 
+Portfolio: http://yuvv.xyz
+
 ### Keep Going, Keep Growing
 ### Be Kind
 ### Live.
