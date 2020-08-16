@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Computer Science Student
-- 🌱 I’m currently learning web app development.
-- 💬 Ask me about how to start learning Computer Science
+- 🌱 I’m currently learning Web Programming, Data Structures, Computer Networks, and Operating Systems.
+- 💬 Ask me about anything (within reason)
 - 📫 How to reach me: DM me on [Twitter](https://twitter.com/yuvraajsj18)
 - ⚡ Fun fact: Searching for domain names is one of my hobbies.
 - 🔭 Learning and understanding makes me feel powerful.
 
 [Portfolio](http://yuvv.xyz)
 
-### Keep Going, Keep Growing
-### Be Kind
-### Live.
+#### Keep Going, Keep Growing
+#### Be Kind
+#### Live.
