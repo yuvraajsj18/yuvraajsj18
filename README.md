@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (within reason)
 - 📫 How to reach me: DM me on [Twitter](https://twitter.com/yuvraajsj18)
 - ⚡ Fun fact: Searching for domain names is one of my hobbies.
-- 🔭 Learning and understanding makes me feel powerful.
-
-[Portfolio](http://yuvv.xyz)
+- 🔭 Learning and understanding makes me feel powerful
 
 #### Keep Going, Keep Growing
 #### Be Kind
