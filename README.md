@@ -2,6 +2,10 @@
 
 ![header photo](YUVRAJ.png)
 
+- **[Portfolio](https://yuvv.xyz)**
+- **[Blog](https://blog.yuvv.xyz)**
+- **[Twitter](https://twitter.com/yuvraajsj18)**
+
 <!--
 **yuvraajsj18/yuvraajsj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
