@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![header photo](YUVRAJ.png)
-
 - **[Portfolio](https://yuvv.xyz)**
 - **[Blog](https://blog.yuvv.xyz)**
 - **[Twitter](https://twitter.com/yuvraajsj18)**
