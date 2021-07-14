@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- **[Portfolio](https://yuvv.xyz)**
+- **[Portfolio](https://yuvraj.tech)**
 - **[Blog](https://blog.yuvv.xyz)**
 - **[Twitter](https://twitter.com/yuvraajsj18)**
 
