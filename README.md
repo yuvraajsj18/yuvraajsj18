@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - **[Portfolio](https://yuvraj.tech)**
-- **[Blog](https://blog.yuvv.xyz)**
+- **[Blog](https://blog.yuvraj.tech)**
 - **[Twitter](https://twitter.com/yuvraajsj18)**
 
 <!--
